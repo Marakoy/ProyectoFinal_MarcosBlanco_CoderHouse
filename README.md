@@ -34,7 +34,7 @@ navegar, hacer consultas, calificar el servicio, tener un perfil con su avatar y
  
  
  
-##Tecnología Utilizada
+###Tecnología Utilizada
 ####Front-End
 HTML 5
 CSS 3
