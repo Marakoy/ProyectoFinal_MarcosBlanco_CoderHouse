@@ -1,7 +1,7 @@
 # ProyectoFinal_MarcosBlanco_CoderHouse
  
-### Comision:40435
-### Alumno: Marcos Blanco
+#### Comision:40435
+#### Alumno: Marcos Blanco
  
 # Video Explicativo https://youtu.be/Wjtk8fdwUeg
  
