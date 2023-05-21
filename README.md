@@ -5,9 +5,9 @@
  
 # Video Explicativo https://youtu.be/Wjtk8fdwUeg
  
-## Web Blog Koyshot (Fotografia y filmmaker)
+ Web Blog Koyshot (Fotografia y filmmaker)
  
-###Descripción del Proyecto:
+#Descripción del Proyecto:
 La pagina web esta destinada a usuarios nuevos o clientes de la firma Koyshot, en la cual podran
 navegar, hacer consultas, calificar el servicio, tener un perfil con su avatar y modificar su informacion.
 
